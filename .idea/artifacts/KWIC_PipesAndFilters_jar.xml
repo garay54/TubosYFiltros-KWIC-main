@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KWIC_PipesAndFilters:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KWIC_PipesAndFilters_jar</output-path>
+    <root id="archive" name="KWIC_PipesAndFilters.jar">
+      <element id="module-output" name="KWIC_PipesAndFilters" />
+    </root>
+  </artifact>
+</component>
